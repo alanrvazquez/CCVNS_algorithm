@@ -1,6 +1,6 @@
 function [objvalue, lowdes] = CCAlgBfour(desupper, lowdes, m)
 
-% Column Change (CC) algorithm for B_4. 
+% Column Change (CC) algorithm for optimizing the B4 value. 
 %
 % INPUTS:
 % desupper  An N-by-m upper design with coded levels -1 and +1 (matrix).

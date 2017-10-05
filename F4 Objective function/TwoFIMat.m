@@ -1,8 +1,7 @@
 function [ Matt ] = TwoFIMat( design, Selmintwo, mchoosetwo, N )
 
 % Compute the two-factor interaction matrix of a design.
-% Note: This function is faster than the function to construct a two-factor 
-% interaction matrix in Matlab, xfsx(M, 'i').
+% Note: This function is faster than the x2fx function in Matlab. 
 %
 % INPUTS:
 % design        An N-by-m design with coded levels -1 and +1 (matrix).

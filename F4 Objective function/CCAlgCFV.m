@@ -1,6 +1,7 @@
 function [objvalue, lowdes] = CCAlgCFV(lowdes, m, UTU, UpInt, Selmintwo, nelF4, vecbigM, Ndiag, PossibJ4s, mchoosetwo, N) 
 
-% Column Change (CC) algorithm for the f(D) function based on the F4 vector. 
+% Column Change (CC) algorithm for the optimizing the f(D) function based on 
+% the F4 vector. 
 %
 % INPUTS:
 % lowdes        An N-by-m upper design with coded levels -1 and +1 (matrix).

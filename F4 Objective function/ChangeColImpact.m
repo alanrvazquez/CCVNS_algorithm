@@ -1,7 +1,8 @@
 function [ CFVCalc , LowInt ] = ChangeColImpact(ii, jj, deslower, LowInt, UTU, Selmintwo, nelF4, Ndiag, PossibJ4s )
 
-% Calculate the J4-characteristics over 4-factor sets involving column 'ii'.
-% For more information, see Supplementary Section A.2.
+% Calculate the F4 vector of a concatenated design constructed from a lower design
+% that swaps columns 'ii' and 'jj'. For more information, see Supplementary 
+% Section A.2.
 %
 % INPUTS:
 % ii, jj        The columns to be swapped (scalars).
