@@ -1,6 +1,5 @@
-README file for code to accompany "Two-Level Designs Constructed by Concatenating
-Orthogonal Arrays of Strength Three," by Alan Vazquez-Alcocer, Peter Goos, and
-Eric D. Schoen.
+README file for MATLAB code to accompany Vazquez, A. R., Goos, P., and Schoen E. D. (2019). "Constructing 
+Two-Level Designs by Concatenation of Strength-3 Orthogonal Arrays." Technometrics, Vol. 61, p.p. 219-232.
 
 ===CONTENTS=======================================
 
